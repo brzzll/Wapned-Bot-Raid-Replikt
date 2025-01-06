@@ -1,6 +1,6 @@
 # Wapned-Bot-Raid-Replikt
 Réplica del raid bot de Wapned o YeezyGang hecho en javascript.
-- Nota: El código será subido cuando se llegue a los 1500 miembros en $ ZenX Corp.
+- Nota: El código legible será subido cuando se llegue a los 1500 miembros en $ ZenX Corp.
 - Requerimientos:
   - [NodeJS](https://nodejs.org/)
   
