@@ -1,0 +1,18 @@
+{
+  "name": "wapnedbot_replica",
+  "version": "1.0.0",
+  "description": "replitk by zenxCorp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brzzl$zenx",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.16.3",
+    "gradient-string": "^1.2.0",
+    "node-fetch": "^2.6.7",
+    "tinygradient": "^1.1.5"
+  }
+}
